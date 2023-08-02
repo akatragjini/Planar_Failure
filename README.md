@@ -22,7 +22,7 @@ Slope parameters and other input properties are entered into a very basic GUI fo
 ![image](https://github.com/akatragjini/Planar_Failure/assets/51655773/f88b1cb9-2d0b-4e31-9b54-7e09bb2254e2)
 
 Prior knowledge of planar failure programs and their input parameters is required to oeprate the program which contains some key functions as shown below to populate results.
-The program can handle probabilistic input data and produces several useful plots.
+The program can handle probabilistic input data according to a normal distribution and produces several useful plots.
 
 ![image](https://github.com/akatragjini/Planar_Failure/assets/51655773/822049be-de91-4ba2-9cf3-72ad04c22bf5)
 
