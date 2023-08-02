@@ -13,7 +13,7 @@ Note that to open the program you must have MATLAB Compiler Runtime (MCR) instal
 
 This is a very planar failure simulator for rock slopes done in MatLab as a school project. 
 
-The simulator modelels a potentially unstable planar wedge as shown below and calculates the factor of safety.
+The simulator modelels a potentially unstable planar wedge as shown below and calculates the factor of safety & other useul parameters.
 
 ![image](https://github.com/akatragjini/Planar_Failure/assets/51655773/c71da36a-458e-4c95-bcfb-8f26b431a9ec)
 
