@@ -30,3 +30,5 @@ The program can handle probabilistic input data and produces several useful plot
 
 
 **Program Limitations**
+
+Use of this program is entirely at your own risk and there is no warranty whatsoever provided.
